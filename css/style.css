@@ -530,7 +530,10 @@ section{
         border-right: 0;
     }
     section {
-        min-height: 78vh;
+        min-height: 90vh;
+    }
+    #contact{
+        min-height: 45vh;
     }
 
 }
